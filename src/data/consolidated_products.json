@@ -1,0 +1,253 @@
+{
+    "categories": [
+        "All Product",
+        "Laptops",
+        "Phones",
+        "Accessories",
+        "Smart Watches",
+        "MacBook",
+        "iPhone"
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Dell XPS 13",
+            "description": "High-performance laptop with a 13.4-inch Infinity Edge display.",
+            "price": 1299.99,
+            "category": "Laptops",
+            "specifications": ["Intel i7 10th Gen", "16GB RAM", "512GB SSD", "13.4-inch display"]
+        },
+        {
+            "id": 2,
+            "name": "Apple MacBook Pro 14\"",
+            "description": "M1 Pro chip with 16GB RAM and 512GB SSD.",
+            "price": 1999.99,
+            "category": "Laptops",
+            "specifications": ["Apple M1 Pro", "16GB RAM", "512GB SSD", "14-inch Retina display"]
+        },
+        {
+            "id": 3,
+            "name": "HP Spectre x360",
+            "description": "13.5-inch 2-in-1 laptop with a powerful Intel processor.",
+            "price": 1399.99,
+            "category": "Laptops",
+            "specifications": ["Intel i7 11th Gen", "16GB RAM", "512GB SSD", "13.5-inch touchscreen"]
+        },
+        {
+            "id": 4,
+            "name": "Lenovo ThinkPad X1 Carbon",
+            "description": "Lightweight, business-grade laptop with top-tier performance.",
+            "price": 1599.99,
+            "category": "Laptops",
+            "specifications": ["Intel i7 10th Gen", "16GB RAM", "1TB SSD", "14-inch display"]
+        },
+        {
+            "id": 5,
+            "name": "Asus ROG Zephyrus G14",
+            "description": "Gaming laptop with Ryzen 9 and NVIDIA graphics.",
+            "price": 1799.99,
+            "category": "Laptops",
+            "specifications": ["AMD Ryzen 9", "32GB RAM", "1TB SSD", "NVIDIA RTX 3060"]
+        },
+        {
+            "id": 6,
+            "name": "iPhone 14 Pro",
+            "description": "6.1-inch display with advanced camera system.",
+            "price": 1099.99,
+            "category": "iPhone",
+            "specifications": ["A16 Bionic chip", "128GB Storage", "6.1-inch OLED display", "5G Enabled"]
+        },
+        {
+            "id": 7,
+            "name": "iPhone 13",
+            "description": "5G-enabled smartphone with an A15 Bionic chip.",
+            "price": 799.99,
+            "category": "iPhone",
+            "specifications": ["A15 Bionic chip", "128GB Storage", "6.1-inch display", "5G Enabled"]
+        },
+        {
+            "id": 8,
+            "name": "iPhone SE (2022)",
+            "description": "Compact phone with powerful performance.",
+            "price": 429.99,
+            "category": "iPhone",
+            "specifications": ["A15 Bionic chip", "64GB Storage", "4.7-inch Retina display"]
+        },
+        {
+            "id": 9,
+            "name": "iPhone 14",
+            "description": "Advanced features with a 6.1-inch Super Retina XDR display.",
+            "price": 899.99,
+            "category": "iPhone",
+            "specifications": ["A15 Bionic chip", "128GB Storage", "6.1-inch display", "Dual-camera system"]
+        },
+        {
+            "id": 10,
+            "name": "iPhone 12",
+            "description": "Affordable smartphone with high performance.",
+            "price": 699.99,
+            "category": "iPhone",
+            "specifications": ["A14 Bionic chip", "64GB Storage", "6.1-inch display", "5G Enabled"]
+        },
+        {
+            "id": 11,
+            "name": "Samsung Galaxy S23",
+            "description": "Flagship phone with 6.8-inch Dynamic AMOLED display.",
+            "price": 999.99,
+            "category": "Phones",
+            "specifications": ["Snapdragon 8 Gen 2", "256GB Storage", "6.8-inch display", "Triple-camera system"]
+        },
+        {
+            "id": 12,
+            "name": "Google Pixel 7 Pro",
+            "description": "High-end smartphone with Google's best camera.",
+            "price": 899.99,
+            "category": "Phones",
+            "specifications": ["Google Tensor G2", "128GB Storage", "6.7-inch display", "Triple-camera system"]
+        },
+        {
+            "id": 13,
+            "name": "OnePlus 11",
+            "description": "Smooth performance and ultra-fast charging.",
+            "price": 699.99,
+            "category": "Phones",
+            "specifications": ["Snapdragon 8 Gen 2", "128GB Storage", "6.5-inch AMOLED display", "50MP main camera"]
+        },
+        {
+            "id": 14,
+            "name": "Xiaomi Mi 13",
+            "description": "Flagship-level performance with cutting-edge features.",
+            "price": 749.99,
+            "category": "Phones",
+            "specifications": ["Snapdragon 8 Gen 1", "256GB Storage", "6.7-inch display", "108MP camera"]
+        },
+        {
+            "id": 15,
+            "name": "Sony Xperia 1 IV",
+            "description": "High-resolution display with professional camera capabilities.",
+            "price": 1199.99,
+            "category": "Phones",
+            "specifications": ["Snapdragon 8 Gen 1", "256GB Storage", "6.5-inch 4K display", "Triple-lens camera"]
+        },
+        {
+            "id": 16,
+            "name": "Apple Watch Series 8",
+            "description": "Smart watch with health tracking and GPS.",
+            "price": 399.99,
+            "category": "Smart Watches",
+            "specifications": ["GPS + Cellular", "Retina Display", "Blood Oxygen Sensor", "Water Resistant"]
+        },
+        {
+            "id": 17,
+            "name": "Samsung Galaxy Watch 5",
+            "description": "Feature-rich smart watch with a sleek design.",
+            "price": 329.99,
+            "category": "Smart Watches",
+            "specifications": ["Super AMOLED display", "GPS", "Heart Rate Monitor", "Water Resistant"]
+        },
+        {
+            "id": 18,
+            "name": "Garmin Fenix 7",
+            "description": "Premium GPS watch with solar charging.",
+            "price": 799.99,
+            "category": "Smart Watches",
+            "specifications": ["Solar Charging", "GPS", "Heart Rate Monitor", "Water Resistant up to 100m"]
+        },
+        {
+            "id": 19,
+            "name": "Fitbit Versa 4",
+            "description": "Affordable smart watch with essential health tracking.",
+            "price": 229.99,
+            "category": "Smart Watches",
+            "specifications": ["Heart Rate Monitor", "Sleep Tracking", "GPS", "Water Resistant"]
+        },
+        {
+            "id": 20,
+            "name": "Huawei Watch GT 3",
+            "description": "Smart watch with advanced health monitoring features.",
+            "price": 249.99,
+            "category": "Smart Watches",
+            "specifications": ["Heart Rate Monitor", "GPS", "Battery Life up to 14 days", "Water Resistant"]
+        },
+        {
+            "id": 21,
+            "name": "Apple MacBook Air M2",
+            "description": "Lightweight, ultra-fast with M2 chip and 8GB RAM.",
+            "price": 1199.99,
+            "category": "MacBook",
+            "specifications": ["Apple M2 chip", "8GB RAM", "256GB SSD", "13.6-inch Retina display"]
+        },
+        {
+            "id": 22,
+            "name": "Apple MacBook Pro 16\"",
+            "description": "Powerful MacBook with a 16-inch display and M1 Max chip.",
+            "price": 2499.99,
+            "category": "MacBook",
+            "specifications": ["Apple M1 Max", "32GB RAM", "1TB SSD", "16-inch Retina display"]
+        },
+        {
+            "id": 23,
+            "name": "Apple MacBook Air (2020)",
+            "description": "Budget-friendly MacBook with M1 chip.",
+            "price": 999.99,
+            "category": "MacBook",
+            "specifications": ["Apple M1 chip", "8GB RAM", "256GB SSD", "13.3-inch Retina display"]
+        },
+        {
+            "id": 24,
+            "name": "Apple MacBook Pro 13\"",
+            "description": "Compact and powerful MacBook with M2 chip.",
+            "price": 1299.99,
+            "category": "MacBook",
+            "specifications": ["Apple M2 chip", "8GB RAM", "512GB SSD", "13.3-inch Retina display"]
+        },
+        {
+            "id": 25,
+            "name": "Apple MacBook Pro 14\" M2",
+            "description": "Latest MacBook with advanced M2 chip and enhanced performance.",
+            "price": 2099.99,
+            "category": "MacBook",
+            "specifications": ["Apple M2 Pro", "16GB RAM", "512GB SSD", "14-inch Retina display"]
+        },
+        {
+            "id": 26,
+            "name": "Noise Cancelling Headphones",
+            "description": "Over-ear headphones with active noise cancellation.",
+            "price": 199.99,
+            "category": "Accessories",
+            "specifications": ["Over-Ear", "Active Noise Cancellation", "Bluetooth 5.0", "20-hour battery life"]
+        },
+        {
+            "id": 27,
+            "name": "Portable Power Bank",
+            "description": "High-capacity power bank with fast charging.",
+            "price": 49.99,
+            "category": "Accessories",
+            "specifications": ["10000mAh", "USB-C and USB-A Ports", "Fast Charging", "Compact Design"]
+        },
+        {
+            "id": 28,
+            "name": "Wireless Mouse",
+            "description": "Ergonomic mouse with Bluetooth connectivity.",
+            "price": 29.99,
+            "category": "Accessories",
+            "specifications": ["Ergonomic Design", "Bluetooth 5.0", "Rechargeable Battery", "High Precision"]
+        },
+        {
+            "id": 29,
+            "name": "USB-C Hub",
+            "description": "Multi-port adapter for USB-C devices.",
+            "price": 39.99,
+            "category": "Accessories",
+            "specifications": ["4 USB Ports", "Compact Design", "High-Speed Data Transfer", "Plug and Play"]
+        },
+        {
+            "id": 30,
+            "name": "Laptop Cooling Pad",
+            "description": "Cooling stand for laptops with built-in fans.",
+            "price": 24.99,
+            "category": "Accessories",
+            "specifications": ["2 Cooling Fans", "Adjustable Height", "USB Powered", "Quiet Operation"]
+        }
+    ]
+}
